@@ -59,46 +59,6 @@
       "description": "Khóa học nói tiếng Anh ELSA 1 NĂM",
       "availability": "In stock",
       "promotion": "1"
-    },
-    {
-      "id": 4,
-      "slug": "lifetime_membership",
-      "name": "GÓI ELSA PRO TRỌN ĐỜI",
-      "category": "ELSA PRO",
-      "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/ELSA tron doi.png",
-      "img_products": [
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone1.png",
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone2.png",
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone3.png",
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
-      ],
-      "price": "9997000",
-      "price_sale": "1499000",
-      "discount_percent": "85",
-      "available_date": "Không thời hạn",
-      "description": "Khóa học nói tiếng Anh ELSA TRỌN ĐỜI",
-      "availability": "In stock",
-      "promotion": "0"
-    },
-    {
-      "id": 5,
-      "slug": "oxford_all_books",
-      "name": "GÓI OXFORD ALL BOOKS",
-      "category": "OXFORD",
-      "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-allbooks.png",
-      "img_products": [
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-        "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
-      ],
-      "price": "816000",
-      "price_sale": "449000",
-      "discount_percent": "45",
-      "available_date": "365 ngày",
-      "description": "Khóa học nói tiếng Anh Oxford",
-      "availability": "In stock",
-      "promotion": "0"
     }
   ]
 }

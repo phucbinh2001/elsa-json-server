@@ -5,12 +5,12 @@
             "slug": "three_months_credit",
             "name": "GÓI ELSA PRO 3 THÁNG",
             "category": "ELSA PRO",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/ELSA%20goi%203%20thang.png",
+            "img_product": "/packed/ELSA%20goi%203%20thang.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
+                "/packed/Phone1.png",
+                "/packed/Phone2.png",
+                "/packed/Phone3.png",
+                "/packed/Phone4.png"
             ],
             "price": "0",
             "priceSale": "329000"
@@ -20,12 +20,12 @@
             "slug": "six_months_credit",
             "name": "GÓI ELSA PRO 6 THÁNG",
             "category": "ELSA PRO",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/ELSA goi 6 thang.png",
+            "img_product": "/packed/ELSA goi 6 thang.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
+                "/packed/Phone1.png",
+                "/packed/Phone2.png",
+                "/packed/Phone3.png",
+                "/packed/Phone4.png"
             ],
             "price": "0",
             "priceSale": "589000"
@@ -36,12 +36,12 @@
             "slug": "one_year_credit",
             "name": "GÓI ELSA PRO 1 NĂM",
             "category": "ELSA PRO",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/ELSA 1 nam.png",
+            "img_product": "/packed/ELSA 1 nam.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
+                "/packed/Phone1.png",
+                "/packed/Phone2.png",
+                "/packed/Phone3.png",
+                "/packed/Phone4.png"
             ],
             "price": "989000",
             "priceSale": "895000"
@@ -51,12 +51,12 @@
             "slug": "lifetime_membership",
             "name": "GÓI ELSA PRO TRỌN ĐỜI",
             "category": "ELSA PRO",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/ELSA tron doi.png",
+            "img_product": "/packed/ELSA tron doi.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
+                "/packed/Phone1.png",
+                "/packed/Phone2.png",
+                "/packed/Phone3.png",
+                "/packed/Phone4.png"
             ],
             "price": "9997000",
             "priceSale": "1499000"
@@ -66,12 +66,12 @@
             "slug": "oxford_all_books",
             "name": "GÓI OXFORD ALL BOOKS",
             "category": "OXFORD",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-allbooks.png",
+            "img_product": "/oxford/phone-allbooks.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
+                "/oxford/phone-oxford1.png",
+                "/oxford/phone-oxford2.png",
+                "/oxford/phone-oxford3.png",
+                "/oxford/phone-oxford4.png"
             ],
             "price": "816000",
             "priceSale": "449000"
@@ -83,12 +83,12 @@
             "slug": "oxford_starter",
             "name": "GÓI OXFORD STARTER",
             "category": "OXFORD",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-starter.png",
+            "img_product": "/oxford/phone-starter.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
+                "/oxford/phone-oxford1.png",
+                "/oxford/phone-oxford2.png",
+                "/oxford/phone-oxford3.png",
+                "/oxford/phone-oxford4.png"
             ],
             "price": "136000",
             "priceSale": "109000"
@@ -98,12 +98,12 @@
             "slug": "oxford_elementary",
             "name": "GÓI OXFORD Elementary",
             "category": "OXFORD",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-elementary.png",
+            "img_product": "/oxford/phone-elementary.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
+                "/oxford/phone-oxford1.png",
+                "/oxford/phone-oxford2.png",
+                "/oxford/phone-oxford3.png",
+                "/oxford/phone-oxford4.png"
             ],
             "price": "136000",
             "priceSale": "109000"
@@ -113,12 +113,12 @@
             "slug": "oxford_pre_intermediate",
             "name": "GÓI OXFORD Pre Intermediate",
             "category": "OXFORD",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-pre.png",
+            "img_product": "/oxford/phone-pre.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
+                "/oxford/phone-oxford1.png",
+                "/oxford/phone-oxford2.png",
+                "/oxford/phone-oxford3.png",
+                "/oxford/phone-oxford4.png"
             ],
             "price": "136000",
             "priceSale": "109000"
@@ -128,12 +128,12 @@
             "slug": "oxford_intermediate",
             "name": "GÓI OXFORD INTERMEDIATE",
             "category": "OXFORD",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-intermediate.png",
+            "img_product": "/oxford/phone-intermediate.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
+                "/oxford/phone-oxford1.png",
+                "/oxford/phone-oxford2.png",
+                "/oxford/phone-oxford3.png",
+                "/oxford/phone-oxford4.png"
             ],
             "price": "136000",
             "priceSale": "109000"
@@ -143,12 +143,12 @@
             "slug": "oxford_upper_intermediate",
             "name": "GÓI OXFORD UPPER INTERMEDIACATE",
             "category": "OXFORD",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-upper.png",
+            "img_product": "/oxford/phone-upper.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
+                "/oxford/phone-oxford1.png",
+                "/oxford/phone-oxford2.png",
+                "/oxford/phone-oxford3.png",
+                "/oxford/phone-oxford4.png"
             ],
             "price": "136000",
             "priceSale": "109000"
@@ -158,12 +158,12 @@
             "slug": "oxford_advanced",
             "name": "GÓI OXFORD ADVANCED",
             "category": "OXFORD",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-advanced.png",
+            "img_product": "/oxford/phone-advanced.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
+                "/oxford/phone-oxford1.png",
+                "/oxford/phone-oxford2.png",
+                "/oxford/phone-oxford3.png",
+                "/oxford/phone-oxford4.png"
             ],
             "price": "136000",
             "priceSale": "109000"
@@ -173,12 +173,12 @@
             "slug": "two_years_credit",
             "name": "GÓI ELSA PRO 2 NĂM",
             "category": "ELSA PRO",
-            "img_product": "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/ELSA 2 nam.png",
+            "img_product": "/packed/ELSA 2 nam.png",
             "img_products": [
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone1.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone2.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone3.png",
-                "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
+                "/packed/Phone1.png",
+                "/packed/Phone2.png",
+                "/packed/Phone3.png",
+                "/packed/Phone4.png"
             ],
             "price": "1987000",
             "priceSale": "1395000"

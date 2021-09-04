@@ -13,12 +13,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
             ],
             "price": "0",
-            "priceSale": "329000",
-            "discount_percent": "0",
-            "available_date": "90 ngày",
-            "description": "Khóa học nói tiếng Anh ELSA 3 tháng",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "329000"
         },
         {
             "id": 2,
@@ -33,12 +28,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
             ],
             "price": "0",
-            "priceSale": "589000",
-            "discount_percent": "0",
-            "available_date": "180 ngày",
-            "description": "Khóa học nói tiếng Anh ELSA 6 tháng",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "589000"
         },
         {
             "id": 3,
@@ -54,12 +44,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
             ],
             "price": "989000",
-            "priceSale": "895000",
-            "discount_percent": "10",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh ELSA 1 NĂM",
-            "availability": "In stock",
-            "promotion": "1"
+            "priceSale": "895000"
         },
         {
             "id": 4,
@@ -74,12 +59,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
             ],
             "price": "9997000",
-            "priceSale": "1499000",
-            "discount_percent": "85",
-            "available_date": "Không thời hạn",
-            "description": "Khóa học nói tiếng Anh ELSA TRỌN ĐỜI",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "1499000"
         },
         {
             "id": 5,
@@ -94,12 +74,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
             ],
             "price": "816000",
-            "priceSale": "449000",
-            "discount_percent": "45",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh Oxford",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "449000"
         }
     ],
     "oxford": [
@@ -116,12 +91,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
             ],
             "price": "136000",
-            "priceSale": "109000",
-            "discount_percent": "20",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh Oxford",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "109000"
         },
         {
             "id": 7,
@@ -136,12 +106,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
             ],
             "price": "136000",
-            "priceSale": "109000",
-            "discount_percent": "20",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh Oxford",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "109000"
         },
         {
             "id": 8,
@@ -156,12 +121,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
             ],
             "price": "136000",
-            "priceSale": "109000",
-            "discount_percent": "20",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh Oxford",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "109000"
         },
         {
             "id": 9,
@@ -176,12 +136,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
             ],
             "price": "136000",
-            "priceSale": "109000",
-            "discount_percent": "20",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh Oxford",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "109000"
         },
         {
             "id": 10,
@@ -196,12 +151,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
             ],
             "price": "136000",
-            "priceSale": "109000",
-            "discount_percent": "20",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh Oxford",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "109000"
         },
         {
             "id": 11,
@@ -216,12 +166,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/oxford/phone-oxford4.png"
             ],
             "price": "136000",
-            "priceSale": "109000",
-            "discount_percent": "20",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh Oxford",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "109000"
         },
         {
             "id": "12",
@@ -236,12 +181,7 @@
                 "https://vn-stag.elsaspeak.com/wp-content/themes/theme-ELSA-SHOP/img/packed/Phone4.png"
             ],
             "price": "1987000",
-            "priceSale": "1395000",
-            "discount_percent": "30",
-            "available_date": "365 ngày",
-            "description": "Khóa học nói tiếng Anh ELSA 3 tháng",
-            "availability": "In stock",
-            "promotion": "0"
+            "priceSale": "1395000"
         }
     ]
 }
